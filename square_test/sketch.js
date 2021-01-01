@@ -1,11 +1,11 @@
 function setup() {
-  createCanvas(400, 400);
-  rectMode (CENTER);
-  noStroke ();
+    createCanvas(400, 400);
+    rectMode(CENTER);
+    noStroke();
 }
 
 function draw() {
-  background('red');
-  fill ('blue');
-  rect (width/2, height/2, 200, 200);
+    background('green');
+    fill('blue');
+    rect(width / 2, height / 2, 200, 200);
 }
