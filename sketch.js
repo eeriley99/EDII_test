@@ -4,7 +4,7 @@ function setup() {
     fill('#F8EDEB');
     background('whitesmoke');
     frameRate(.5);
-    cursor('https://eeriley99.github.io/code_sketchbook/icons-master/cursor.gif');
+    cursor('CursorGif.gif');
 }
 
 function draw() {
