@@ -4,7 +4,7 @@ function setup() {
     fill('#F8EDEB');
     background('whitesmoke');
     frameRate(.5);
-    cursor('https://eeriley99.github.io/code_sketchbook/icons-master/boxGif.gif');
+    cursor('https://eeriley99.github.io/code_sketchbook/icons-master/spray_can.gif');
 }
 
 function draw() {
