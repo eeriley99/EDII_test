@@ -18,11 +18,17 @@ h3 {
     font-size: 32px;
 }
 
-a {
-    cursor: url('bullhorn.png'), auto;
+a.a0 {
+    cursor: url('boxCursor.png'), auto;
 }
 
+a.a1 {
+    cursor: url('paneCursor.png'), auto;
+}
 
+a.a2 {
+    cursor: url('paperCursor.png'), auto;
+}
 
 a:link {
     color: #bac2bd;
