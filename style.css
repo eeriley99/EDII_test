@@ -18,6 +18,12 @@ h3 {
     font-size: 32px;
 }
 
+a {
+    cursor: url('bullhorn.png'), auto;
+}
+
+
+
 a:link {
     color: #bac2bd;
     background-color: transparent;

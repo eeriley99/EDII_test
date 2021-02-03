@@ -4,7 +4,6 @@ function setup() {
     fill('#F8EDEB');
     background('whitesmoke');
     frameRate(.5);
-    cursor('CursorGif.gif');
 }
 
 function draw() {
